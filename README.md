@@ -1,5 +1,8 @@
 # Vrinda-Store-Analysis-Data-Analysis (Interactive Dashboard cration using MS Excel )
 
+# Description
+The annual report summarizes sales and order data for Vrinda Store. It shows that sales were highest from March to August, and orders were primarily placed by women aged 18-59. The top 5 states by sales were Tamil Nadu, Telangana, Uttar Pradesh, Karnataka, and Maharashtra. All orders were placed through the Amazon channel.
+
 # Project Objective
 
 The Vrinda Store wants to create annual sales report for 2022. so that, the owner of the Vrinda store can understand thier customers and grow more sales in 2023
